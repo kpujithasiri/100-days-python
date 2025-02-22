@@ -1,0 +1,24 @@
+Day 3 : The end goal is to able to write a code to build a rock paper scissors game.
+
+1.The first step is to know the random whole numbers.(generating random whole numbers)
+learnt about creating own module in pychram.
+process is going to our current task right click and open new continuing with python file and name it as u wish.
+random_number_0_to_1 = random.random()=used to generate random float number also this random_float = random.uniform(1,10).
+heads or tails code:
+random_heads_or_tails = random.randint(0,1)
+if random_heads_or_tails == 0:
+    print("Heads")
+else:
+    print("Tails")
+2.Lists
+printing the lists and the required of the list
+for eg:
+student_list = [puji,srija,harshi]
+print(student_list[0])
+output:puji.
+we can also alter the names in the list using ex:
+student_list[1]=pooji
+entering new data can be done through append ex:
+student_list.append=("yoshi")
+.extend
+
