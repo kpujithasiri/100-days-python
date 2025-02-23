@@ -1,0 +1,28 @@
+DAY 5 : password generator
+1.loops-for loop
+printing each fruit,eg:
+fruits = ["Apple", "Peach", "Pear"]
+for fruit in fruits:
+    print(fruit)
+the loop allows us to execute the same line of code multiple times.
+printing max score using for loops:
+eg:
+student_scores = [150, 142, 185, 120,199,171, 184, 149, 24, 59, 68, 78, 65, 89, 86, 55, 91, 64, 89]
+
+max_score = 0
+for score in student_scores:
+    if score > max_score:
+        max_score = score
+
+print(max_score)
+2.for and the range()function:
+range;
+for number in range(a,b):
+print(number)
+if we print numbera in range lets say a to b it will exclude b.
+(1,11,3)then it takes the gap of 3 btwn numbers and prints 1,4,7,10.
+adding numbers from 1 to 100;
+sum = 0
+for number in range(1,101):
+    sum += number
+    print(sum)
