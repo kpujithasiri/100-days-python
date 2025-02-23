@@ -1,0 +1,11 @@
+DAY 6:Escapimg the maze
+1.functions
+->defining function
+def my_function():
+->def keysword along with the function name along with paranthesis and colon.
+used jump function
+2.indentation
+3.while loop
+while something is true
+    do repeatedly
+all i learnt is about a maze game and how it works using loops like for and while ,how do they work and how many times they iterate through the loop.
