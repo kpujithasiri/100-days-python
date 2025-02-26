@@ -1,0 +1,9 @@
+DAY 7 : Hangman project
+1.flowchart programming for representing the logic.
+step 1 is all about chossing a word from word_list using random variable and then choose a letter from word like guess it
+and finally checking whether the letter chosen by u matches the word using for loop.
+2.adding the same number of underscores as the same number of chusen word.and placing the choosen letter in the correct place if is
+else keeping it blank.
+totally from this project we are getting into the subject and the things are going to be tough from now , immwnse concentration ,dedication
+to do daily like consistency is important and backup is also need
+in this project we came through the usage of f-strings,for,in etc.
